@@ -4,13 +4,13 @@
 
 <p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=5&color=87CEEB&center=true&vCenter=true&width=435&lines=You'll Never Walk Alone" alt="Typing SVG" />
   
-<p align="center">
+<p align="center" color="color=87CEEB">
   Full-time Student at The University of Salford. Studying Aircraft Enginnering. 
 </p>
-<p align="center">
+<p align="center" color="color=87CEEB">
   Owner of the Nexia Network - A Family Friendly Minecraft Server. Find us online:
 </p>
-<a href="https://playnexia.net/">Visit playnexia.net</a>
-<p align="center">
+<a align="center" color="color=87CEEB" href="https://playnexia.net/">Visit playnexia.net</a>
+<p align="center" color="color=87CEEB">
   Find me on Discord: PhileasFogg3#1379
 </p>  
