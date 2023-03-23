@@ -4,7 +4,7 @@
 
 <p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=5&color=87CEEB&center=true&vCenter=true&width=435&lines=You'll Never Walk Alone" alt="Typing SVG" />
   
-<p align="center" style="color:87CEEB">
+<p align="center" style="color:red">
   Full-time Student at The University of Salford. Studying Aircraft Enginnering. 
 </p>
 <p align="center">
