@@ -11,6 +11,7 @@
   Owner of the Nexia Network - A Family Friendly Minecraft Server. Find us online:
 </p>
 <div align="center"><a href="https://playnexia.net/">Visit playnexia.net</a></div>
+<div></div>
 <p align="center">
   Find me on Discord: PhileasFogg3#1379
 </p>  
