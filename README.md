@@ -10,7 +10,7 @@
 <p align="center">
   Owner of the Nexia Network - A Family Friendly Minecraft Server. Find us online:
 </p>
-<a align="center" href="https://playnexia.net/">Visit playnexia.net</a>
+<a href="https://playnexia.net/" align="center">Visit playnexia.net</a>
 <p align="center">
   Find me on Discord: PhileasFogg3#1379
 </p> 
