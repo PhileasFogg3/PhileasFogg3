@@ -8,7 +8,7 @@
   Full-time Student at The University of Salford. Studying Aircraft Enginnering. 
 </p>
 <p align="center">
-  Owner of the Nexia Network - A Family Friendly Minecraft Server. Find us online:<a href="https://playnexia.net">playnexia.net>
+  Owner of the Nexia Network - A Family Friendly Minecraft Server. Find us online:<a href="https://playnexia.net"> playnexia.net
 </p>
 <p align="center">
   Find me on Discord: PhileasFogg3#1379
