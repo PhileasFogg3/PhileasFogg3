@@ -11,5 +11,8 @@
   Owner of the Nexia Network - A Family Friendly Minecraft Server. Find us online:<a href="https://playnexia.net"> playnexia.net
 </p>
 <p align="center">
+  I run local events in my community, such as<a href="https://teawithsanta.com"> Tea with Santa
+</p>  
+<p align="center">
   Find me on Discord: PhileasFogg3#1379
 </p> 
