@@ -14,5 +14,5 @@
   I run local events in my community, such as<a href="https://teawithsanta.com"> Tea with Santa
 </p>  
 <p align="center">
-  Find me on Discord: PhileasFogg3#1379
+  Find me on Discord: @phileasfogg3
 </p> 
