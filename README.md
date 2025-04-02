@@ -1,6 +1,6 @@
 ## Hi, I'm Phil 🚂
-<div align="center"
-🎓Full-time student studying Aircraft Engineering at the University of Salford <br/>
+<div align="center">
+🎓Full-time student studying Aircraft Engineering at the University of Salford. A selection of my academic papers are available <a href="https://github.com/PhileasFogg3?tab=repositories" target="_blank">here</a><br/>
 🕹️Owner of the <a href="https://playnexia.net/" target="_blank">Nexia Network</a> - A Family-Friendly Minecraft Server. <br/>
 🐦‍⬛Project Manager and Narrative Lead at <a href="https://screencrowstudios.com/home" target="_blank">ScreenCrow Studios</a> - Working on our first <a href="https://thedreamlurker.screencrowstudios.com/" target="_blank">game!</a><br/>
 🎅I run local events in my community, such as <a href="https://teawithsanta.com" target="_blank">Tea with Santa!</a><br/>
