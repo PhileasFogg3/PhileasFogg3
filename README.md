@@ -20,6 +20,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=PhileasFogg3&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
-<p align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=5&color=87CEEB&center=true&vCenter=true&width=435&lines=You'll Never Walk Alone" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&pause=1000&color=87CEEB&center=true&width=435&lines=You'll+Never+Walk+Alone" alt="Typing SVG" /></a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
